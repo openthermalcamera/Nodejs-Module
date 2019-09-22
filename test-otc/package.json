@@ -1,0 +1,6 @@
+{
+    "name": "otc-test",
+    "version": "0.0.1",
+    "main": "test-otc.js",
+    "dependencies": {}
+}
